@@ -1,4 +1,4 @@
-[![MasterHead](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2dvamM3ZzhjYTAyMGpmNHZsaHEyMWk2ODU3bnJ6d2VjMWYxNHA5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/U2REmlPeYweoiJlYc8/giphy.webp)](https://www.linkedin.com/in/ramyashree-boga/)
+<!--[![MasterHead](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2dvamM3ZzhjYTAyMGpmNHZsaHEyMWk2ODU3bnJ6d2VjMWYxNHA5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/U2REmlPeYweoiJlYc8/giphy.webp)](https://www.linkedin.com/in/ramyashree-boga/)-->
 <h1 align="center">Hi 👋, I'm Ramyashree Boga</h1>
 <h3 align="center">A passionate web developer from United States</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/3612ee9ed74410f8215009e743bde46d2bd74b96bc330563604211dc5f35d4b1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966">
